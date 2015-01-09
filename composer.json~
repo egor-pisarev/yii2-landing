@@ -1,22 +1,15 @@
 {
-    // package name
     "name": "egor-pisarev/yii2-landing",
-
-    // package type
     "type": "yii2-extension",
-
     "description": "Landing pages module",
     "keywords": ["yii2"],
     "license": "BSD-3-Clause",
-    
-    "authors": [
+        "authors": [
         {
             "name": "Egor Pisarev",
             "email": "egor.pisarev@gmail.com"
         }
     ],
-
-    // package dependencies
     "require": {
         "yiisoft/yii2": "*",
     }
