@@ -19,7 +19,7 @@
     // package dependencies
     "require": {
         "yiisoft/yii2": "*",
-    },
+    }
 
 }
  
